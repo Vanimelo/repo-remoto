@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Repositório localç
+# Repositório local
 Descrição inserida no repositório remoto depois do clone.
 =======
 # Repositório Remoto depois do clone
